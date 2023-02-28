@@ -1,0 +1,12 @@
+C:\תמי\angular\CoursesProject\Models\bin\Debug\Models.dll
+C:\תמי\angular\CoursesProject\Models\bin\Debug\Models.pdb
+C:\תמי\angular\CoursesProject\Models\bin\Debug\DAL.dll
+C:\תמי\angular\CoursesProject\Models\bin\Debug\EntityFramework.dll
+C:\תמי\angular\CoursesProject\Models\bin\Debug\DAL.pdb
+C:\תמי\angular\CoursesProject\Models\bin\Debug\DAL.dll.config
+C:\תמי\angular\CoursesProject\Models\bin\Debug\EntityFramework.xml
+C:\תמי\angular\CoursesProject\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\תמי\angular\CoursesProject\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\תמי\angular\CoursesProject\Models\obj\Debug\Models.dll
+C:\תמי\angular\CoursesProject\Models\obj\Debug\Models.pdb
+C:\תמי\angular\CoursesProject\Models\obj\Debug\Models.csproj.CopyComplete

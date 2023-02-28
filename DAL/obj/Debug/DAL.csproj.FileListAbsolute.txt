@@ -1,0 +1,11 @@
+C:\תמי\angular\CoursesProject\DAL\bin\Debug\DAL.dll.config
+C:\תמי\angular\CoursesProject\DAL\bin\Debug\DAL.dll
+C:\תמי\angular\CoursesProject\DAL\bin\Debug\DAL.pdb
+C:\תמי\angular\CoursesProject\DAL\bin\Debug\EntityFramework.dll
+C:\תמי\angular\CoursesProject\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\תמי\angular\CoursesProject\DAL\bin\Debug\EntityFramework.xml
+C:\תמי\angular\CoursesProject\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\תמי\angular\CoursesProject\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\תמי\angular\CoursesProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\תמי\angular\CoursesProject\DAL\obj\Debug\DAL.dll
+C:\תמי\angular\CoursesProject\DAL\obj\Debug\DAL.pdb
