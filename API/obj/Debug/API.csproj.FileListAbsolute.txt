@@ -96,4 +96,3 @@ C:\תמי\angular\CoursesProject\API\bin\EntityFramework.SqlServer.xml
 C:\תמי\angular\CoursesProject\API\bin\System.Web.Cors.dll
 C:\תמי\angular\CoursesProject\API\bin\System.Web.Http.Cors.dll
 C:\תמי\angular\CoursesProject\API\bin\System.Web.Http.Cors.xml
-C:\תמי\angular\CoursesProject\API\obj\Debug\API.csproj.CopyComplete

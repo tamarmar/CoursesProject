@@ -66,5 +66,9 @@ namespace BL
                 return true;
             return false;
         }
+        public Student GetStudentById(int id)
+        {
+            return GetAllStudents().Find(s => s.StudentID == id);
+        }
     }
 }

@@ -45,5 +45,11 @@ namespace API.Controllers
         {
             return studentsBl.StudentExist(student.StudentID);
         }
+        [Route("GetStudentById")]
+        [HttpPost]
+        public Student GetStudentById(Student student)
+        {
+            return studentsBl.GetStudentById(student.StudentID);
+        }
     }
 }
